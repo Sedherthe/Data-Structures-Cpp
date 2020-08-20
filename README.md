@@ -1,1 +1,11 @@
-# Data-Structures-in-Cpp
+## Data Structures and Algorithms in C++
+  - Graph Data Structure and Insertion Sort
+  - Merge Sort and Quick Sort
+  - Stack, Queue and Doubly Linked List
+  - Binary Search Tree
+  - Heaps and Priority Queues
+  - Hashing Algorithms
+  - Components of a Graph using Disjoint-set Forest Data Structure
+  - DFS, BFS and Topological Sort
+  - Djikstra's Algorithm
+  - Minimum Spanning Tree using Kruskals Algorithm
